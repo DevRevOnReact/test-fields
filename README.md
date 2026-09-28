@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/DevRevOnReact/test-fields/actions/workflows/ci.yml/badge.svg)](https://github.com/DevRevOnReact/test-fields/actions/workflows/ci.yml)
 
-Небольшая лента публикаций с серверным рендерингом и формой создания поста.
+Небольшая лента публикаций с серверным рендерингом и формой создания поста - https://test-fields.netlify.app/
 
 Next.js 16 (App Router), React 19, TypeScript, Tailwind CSS 4, Zod 4.
 Данные — [JSONPlaceholder](https://jsonplaceholder.typicode.com/).
